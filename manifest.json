@@ -1,0 +1,14 @@
+{
+  "name": "MAXIMUS — Personal RPG",
+  "short_name": "MAXIMUS",
+  "description": "Turn real-life tasks into quests. Level up your life.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#00c8ff",
+  "theme_color": "#00c8ff",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
